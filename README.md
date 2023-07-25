@@ -14,4 +14,4 @@ Feel free to reach out to me for technology discussions, potential collaboration
 - 📧 Email: [ali@ciratum.nl](mailto:ali@ciratum.nl)
 - 🌐 LinkedIn: [Abdi Ali](https://www.linkedin.com/in/abdi-ali-094bb21aa/)
 
-This is a README file, written in English and presented as a code block.
+
